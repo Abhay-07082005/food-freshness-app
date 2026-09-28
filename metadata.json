@@ -1,0 +1,10 @@
+{
+  "name": "Freshness Detector & Shelf-Life Tracker",
+  "description": "Upload or capture an image of a fruit or vegetable to analyze freshness, estimate shelf-life, and receive reminders before expiration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
